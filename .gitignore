@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Python
+~*/
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Production
+pdf.docx
+pdf.pdf
